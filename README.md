@@ -1,7 +1,7 @@
 # DyStore电商购物平台1.0
 使用springboot框架+vue3构建+Element Plus
 
-##这是项目结构
+##这是项目结构</br>
 ![image](https://github.com/user-attachments/assets/87155671-3e5d-450e-ba81-a950046d3504)
 
 ##这是vue版本，创建vue项目时使用（创建项目时记得在Router一项选择yes，其他可以选no）
