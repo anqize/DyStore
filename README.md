@@ -7,7 +7,7 @@
 ##这是vue版本，创建vue项目时使用（创建项目时记得在Router一项选择yes，其他可以选no）
 ![15156a004daf759381400bdba3f5fd7](https://github.com/user-attachments/assets/a13cb7cf-c5de-4c50-8df7-dadfc23e57e1)
 
-##以下是项目其他配置
+##以下是项目其他配置</br>
 ![34a63f9f9136360c03ebf3e310151f9](https://github.com/user-attachments/assets/b543ab89-84b6-4313-9c10-28a5f096b430)
 ![feab770b71eabe00bdc877ef4f77239](https://github.com/user-attachments/assets/32e64b1d-369e-4eaa-84bb-0a6d8f71ad26)
 
