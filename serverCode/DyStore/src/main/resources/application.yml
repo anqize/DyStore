@@ -1,0 +1,26 @@
+spring:
+  application:
+    name: DyStore
+
+  #配置Mysql的连接信息
+  datasource:
+    url: jdbc:mysql://localhost:3307/jdbc
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: root
+  servlet:
+    multipart:
+      #最大单个文件大小
+      max-file-size: 10MB
+      #最大请求大小
+      max-request-size: 100MB
+
+#配置Mybatis的日志输出信息
+mybatis:
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+    #开启驼峰命名
+    map-underscore-to-camel-case: true
+
+  #指定xml映射配置文件的位置(指定后就不用同包同名)
+  mapper-locations: classpath:mapper/*.xml
