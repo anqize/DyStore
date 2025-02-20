@@ -11,7 +11,7 @@
 ![34a63f9f9136360c03ebf3e310151f9](https://github.com/user-attachments/assets/b543ab89-84b6-4313-9c10-28a5f096b430)
 ![feab770b71eabe00bdc877ef4f77239](https://github.com/user-attachments/assets/32e64b1d-369e-4eaa-84bb-0a6d8f71ad26)
 
-#这是项目效果图
+#这是项目效果图（登录注册界面可实现滑动切换）
 ##登录界面
 ![image](https://github.com/user-attachments/assets/72f35e8a-ca5e-4973-bbc6-04df57793b6b)
 
@@ -23,3 +23,6 @@
 
 ##购物车界面
 ![image](https://github.com/user-attachments/assets/7450eef0-b4c7-4bf7-b9ad-6ed36c0776c9)
+
+
+由于初次使用GitHub，过大的vue配置文件不知道该不该上传，怎么上传，故只保留了核心代码
